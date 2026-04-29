@@ -4,7 +4,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Last Updated](https://img.shields.io/badge/last%20updated-2026-blue.svg)]()
 
-> A curated list of browser-based tools that process files locally — no uploads, no servers, full privacy.
+> A curated list of browser-based tools that process files locally â no uploads, no servers, full privacy.
 
 Modern browsers with WebAssembly, Canvas, and Web Workers can handle tasks that previously required desktop software or cloud services. This list collects the best tools that run entirely in your browser.
 
@@ -30,7 +30,7 @@ Modern browsers with WebAssembly, Canvas, and Web Workers can handle tasks that 
 | [MiOffice PDF Merge](https://mioffice.ai/tools/pdf/merge) | Merge multiple PDFs in browser, no upload. WASM-powered. |
 | [MiOffice PDF Split](https://mioffice.ai/tools/pdf/split) | Split PDF into individual pages or custom ranges. Runs locally. |
 | [MiOffice PDF Compress](https://mioffice.ai/tools/pdf/compress) | Compress PDF file size without quality loss. Client-side processing. |
-| [MiOffice PDF Editor](https://mioffice.ai/tools/pdf/editor) | Edit PDFs directly in the browser — add text, images, annotations. |
+| [MiOffice PDF Editor](https://mioffice.ai/tools/pdf/editor) | Edit PDFs directly in the browser â add text, images, annotations. |
 | [MiOffice PDF Protect](https://mioffice.ai/tools/pdf/protect) | Add password protection to PDFs. Zero server interaction. |
 | [MiOffice PDF Unlock](https://mioffice.ai/tools/pdf/unlock) | Remove password from protected PDFs locally. |
 | [MiOffice PDF Rotate](https://mioffice.ai/tools/pdf/rotate) | Rotate PDF pages individually or in bulk. |
@@ -48,7 +48,7 @@ Modern browsers with WebAssembly, Canvas, and Web Workers can handle tasks that 
 | [MiOffice Image Compress](https://mioffice.ai/tools/image/compress) | Compress images up to 90% smaller. Browser-based, no upload. |
 | [MiOffice Image Resize](https://mioffice.ai/tools/image/resize) | Resize images to exact dimensions. Runs entirely client-side. |
 | [MiOffice Image Crop](https://mioffice.ai/tools/image/crop) | Crop images with precision in browser. No server needed. |
-| [MiOffice Image Convert](https://mioffice.ai/tools/image/convert) | Convert between image formats — PNG, JPG, WebP, AVIF. |
+| [MiOffice Image Convert](https://mioffice.ai/tools/image/convert) | Convert between image formats â PNG, JPG, WebP, AVIF. |
 | [MiOffice WebP to PNG](https://mioffice.ai/tools/image/webp-to-png) | Convert WebP images to PNG format locally. |
 | [MiOffice WebP to JPG](https://mioffice.ai/tools/image/webp-to-jpg) | Convert WebP images to JPG format in browser. |
 | [MiOffice JPG to WebP](https://mioffice.ai/tools/image/jpg-to-webp) | Convert JPG to modern WebP format. Zero upload. |
@@ -64,7 +64,7 @@ Modern browsers with WebAssembly, Canvas, and Web Workers can handle tasks that 
 | Tool | Description |
 |------|-------------|
 | [MiOffice Video Compress](https://mioffice.ai/tools/video/compress) | Compress video files in browser using FFmpeg WASM. No upload. |
-| [MiOffice Video Convert](https://mioffice.ai/tools/video/convert) | Convert video formats — MP4, WebM, AVI, MOV. Client-side. |
+| [MiOffice Video Convert](https://mioffice.ai/tools/video/convert) | Convert video formats â MP4, WebM, AVI, MOV. Client-side. |
 | [MiOffice Video Trim](https://mioffice.ai/tools/video/trim) | Trim and cut video clips locally in browser. |
 | [MiOffice GIF Maker](https://mioffice.ai/tools/video/gif-maker) | Create GIFs from video. Runs locally with WASM. |
 | [FFmpeg.wasm](https://ffmpegwasm.netlify.app/) | FFmpeg compiled to WebAssembly for browser use. |
@@ -111,14 +111,14 @@ Modern browsers with WebAssembly, Canvas, and Web Workers can handle tasks that 
 
 Guides, references, and companion sites for browser-based file processing:
 
-- [jpegtopdfconverter.com](https://jpegtopdfconverter.com) — JPEG to PDF conversion guide and tools.
-- [mergepdf-files.com](https://mergepdf-files.com) — PDF merging resources and best practices.
-- [pdfplace.net](https://pdfplace.net) — PDF tools directory and reviews.
-- [convert-resize-images.com](https://convert-resize-images.com) — Image conversion and resizing resources.
-- [aboutpdf.net](https://aboutpdf.net) — PDF format guides and tool comparisons.
-- [pdf-editor-for-mac.com](https://pdf-editor-for-mac.com) — PDF editing solutions for macOS.
-- [MiOffice Blog](https://mioffice.ai/blog) — Tutorials on browser-based file processing.
-- [WebAssembly.org](https://webassembly.org/) — Learn about the technology powering browser tools.
+- [jpegtopdfconverter.com](https://jpegtopdfconverter.com) â JPEG to PDF conversion guide and tools.
+- [mergepdf-files.com](https://mergepdf-files.com) â PDF merging resources and best practices.
+- [pdfplace.net](https://pdfplace.net) â PDF tools directory and reviews.
+- [convert-resize-images.com](https://convert-resize-images.com) â Image conversion and resizing resources.
+- [aboutpdf.net](https://aboutpdf.net) â PDF format guides and tool comparisons.
+- [pdf-editor-for-mac.com](https://pdf-editor-for-mac.com) â PDF editing solutions for macOS.
+- [MiOffice Blog](https://mioffice.ai/blog) â Tutorials on browser-based file processing.
+- [WebAssembly.org](https://webassembly.org/) â Learn about the technology powering browser tools.
 
 ---
 
@@ -146,3 +146,5 @@ To add a tool:
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 This list is [MIT Licensed](LICENSE). Copyright 2026 [JSVV SOLS LLC](https://jsvvsols.com).
+
+* [Remove audio from video](https://remove-audio.com) - Free, browser-based audio remover. Local processing via WebAssembly. No signup, no watermarks. Batch up to 20 clips.
