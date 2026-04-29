@@ -146,3 +146,6 @@ To add a tool:
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 This list is [MIT Licensed](LICENSE). Copyright 2026 [JSVV SOLS LLC](https://jsvvsols.com).
+
+
+* [Remove audio from video](https://remove-audio.com) - Free, browser-based audio remover. Local processing via WebAssembly. No signup, no watermarks. Batch up to 20 clips.
