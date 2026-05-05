@@ -40,6 +40,7 @@ Modern browsers with WebAssembly, Canvas, and Web Workers can handle tasks that 
 | [PDF.js](https://mozilla.github.io/pdf.js/) | Mozilla's open-source PDF viewer for the web. |
 | [PDF-LIB](https://pdf-lib.js.org/) | Create and modify PDFs in any JavaScript environment. |
 | [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | Self-hosted PDF manipulation tool. |
+| [PDF Mavericks](https://www.pdfmavericks.com) | 25+ browser-based PDF tools: merge, split, compress, rotate, convert, sign, unlock, reorder, PDF-to-text. Plus JSON/data utilities. No upload, no signup. |
 
 ## Image Tools
 
