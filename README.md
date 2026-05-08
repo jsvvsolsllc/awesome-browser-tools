@@ -81,6 +81,7 @@ Modern browsers with WebAssembly, Canvas, and Web Workers can handle tasks that 
 | [Transformers.js](https://huggingface.co/docs/transformers.js) | Run Hugging Face models directly in the browser. |
 | [ONNX Runtime Web](https://onnxruntime.ai/) | Run ONNX ML models in browser with WebAssembly/WebGPU. |
 | [MediaPipe](https://mediapipe-studio.webapps.google.com/) | Google's on-device ML solutions for web. |
+| [TinyTools Background Remover](https://tinytools-smoky.vercel.app/) | AI background removal running entirely in browser via ONNX. Part of [TinyTools](https://tinytools-smoky.vercel.app/) — a collection of free, no-signup browser-only utilities (favicon, OG image, SEO meta, AI cost calculator, robots.txt, color palette). |
 
 ## File Tools
 
