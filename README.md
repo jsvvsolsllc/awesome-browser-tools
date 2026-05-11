@@ -93,6 +93,7 @@ Modern browsers with WebAssembly, Canvas, and Web Workers can handle tasks that 
 | [FileSaver.js](https://github.com/nicedaycode/FileSaver.js) | Save generated files on the client side. |
 | [JSZip](https://stuk.github.io/jszip/) | Create, read, and edit .zip files with JavaScript. |
 | [SheetJS](https://sheetjs.com/) | Spreadsheet data parser and writer for the browser. |
+| [Acento](https://www.acento.io) | Multilingual collection of browser-based calculators and dev tools (JSON formatter, JWT decoder, base64, hash, regex tester, UUID, QR generator) in 9 languages. Client-side only. |
 
 ## Privacy Tools
 
