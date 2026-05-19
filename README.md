@@ -55,6 +55,7 @@ Modern browsers with WebAssembly, Canvas, and Web Workers can handle tasks that 
 | [MiOffice PNG to JPG](https://mioffice.ai/tools/image/png-to-jpg) | Convert PNG to compressed JPG. Client-side processing. |
 | [MiOffice Bulk Resize](https://mioffice.ai/tools/image/bulk-resize) | Batch resize hundreds of images at once in browser. |
 | [MiOffice Image to PDF](https://mioffice.ai/tools/image/to-pdf) | Convert images to PDF documents locally. |
+| [IDPhotoSnap](https://idphotosnap.com) | Free passport and visa photo tool for 100+ countries. Crops to country-specific specs (US 2x2 inch, Schengen 35x45mm, India, China). WebAssembly + Canvas, no upload, no signup, no watermark. |
 | [Squoosh](https://squoosh.app/) | Google's image compression web app. |
 | [Photopea](https://www.photopea.com/) | Advanced browser-based image editor (Photoshop alternative). |
 | [SVGOMG](https://jakearchibald.github.io/svgomg/) | SVG optimizer with a web GUI. |
