@@ -77,6 +77,7 @@ Modern browsers with WebAssembly, Canvas, and Web Workers can handle tasks that 
 |------|-------------|
 | [MiOffice Remove Background](https://mioffice.ai/tools/ai/remove-background) | AI-powered background removal. ONNX model runs in browser. Zero upload. |
 | [MiOffice Remove Object](https://mioffice.ai/tools/ai/remove-object) | Remove unwanted objects from images using AI. Fully client-side. |
+| [LandscapioAI](https://www.landscapioai.com/) | AI landscape design generator for creating garden, yard, and outdoor space concepts from photos or prompts. |
 | [MiOffice Face Swap](https://mioffice.ai/tools/ai/face-swap) | AI face swap running ONNX models in browser via WebAssembly. |
 | [Transformers.js](https://huggingface.co/docs/transformers.js) | Run Hugging Face models directly in the browser. |
 | [ONNX Runtime Web](https://onnxruntime.ai/) | Run ONNX ML models in browser with WebAssembly/WebGPU. |
