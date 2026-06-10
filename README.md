@@ -40,6 +40,7 @@ Modern browsers with WebAssembly, Canvas, and Web Workers can handle tasks that 
 | [PDF.js](https://mozilla.github.io/pdf.js/) | Mozilla's open-source PDF viewer for the web. |
 | [PDF-LIB](https://pdf-lib.js.org/) | Create and modify PDFs in any JavaScript environment. |
 | [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | Self-hosted PDF manipulation tool. |
+| [Loft PDF Editor](https://lofttools.com/featured/pdf-editor/) | Edit PDF text in place, sign, redact, reorganize — true content-stream rewrite, runs locally, no upload. |
 
 ## Image Tools
 
@@ -93,6 +94,7 @@ Modern browsers with WebAssembly, Canvas, and Web Workers can handle tasks that 
 | [FileSaver.js](https://github.com/nicedaycode/FileSaver.js) | Save generated files on the client side. |
 | [JSZip](https://stuk.github.io/jszip/) | Create, read, and edit .zip files with JavaScript. |
 | [SheetJS](https://sheetjs.com/) | Spreadsheet data parser and writer for the browser. |
+| [Loft Tools](https://lofttools.com) | Privacy-first suite of browser-based file tools (PDF, image, 3D/CAD/PCB, OCR). Files never leave your device. |
 
 ## Privacy Tools
 
