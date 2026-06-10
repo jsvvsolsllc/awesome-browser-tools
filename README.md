@@ -55,6 +55,7 @@ Modern browsers with WebAssembly, Canvas, and Web Workers can handle tasks that 
 | [MiOffice PNG to JPG](https://mioffice.ai/tools/image/png-to-jpg) | Convert PNG to compressed JPG. Client-side processing. |
 | [MiOffice Bulk Resize](https://mioffice.ai/tools/image/bulk-resize) | Batch resize hundreds of images at once in browser. |
 | [MiOffice Image to PDF](https://mioffice.ai/tools/image/to-pdf) | Convert images to PDF documents locally. |
+| [FreePNGConvert](https://freepngconvert.com/) | Convert WebP images to PNG in browser. No upload, no server, privacy-first. |
 | [Squoosh](https://squoosh.app/) | Google's image compression web app. |
 | [Photopea](https://www.photopea.com/) | Advanced browser-based image editor (Photoshop alternative). |
 | [SVGOMG](https://jakearchibald.github.io/svgomg/) | SVG optimizer with a web GUI. |
