@@ -146,3 +146,5 @@ To add a tool:
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 This list is [MIT Licensed](LICENSE). Copyright 2026 [JSVV SOLS LLC](https://jsvvsols.com).
+
+| [FreePNGConvert](https://freepngconvert.com) | Free WebP to PNG converter — no upload, browser-based processing. Batch support. |
