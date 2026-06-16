@@ -35,6 +35,7 @@ Modern browsers with WebAssembly, Canvas, and Web Workers can handle tasks that 
 | [MiOffice PDF Unlock](https://mioffice.ai/tools/pdf/unlock) | Remove password from protected PDFs locally. |
 | [MiOffice PDF Rotate](https://mioffice.ai/tools/pdf/rotate) | Rotate PDF pages individually or in bulk. |
 | [MiOffice PDF to Images](https://mioffice.ai/tools/pdf/to-images) | Convert PDF pages to high-quality PNG/JPG images. |
+| [Mini Tools PDF to Image](https://mini-tools.uk/pdf2img) | Convert PDF pages to PNG or JPG images in the browser. |
 | [MiOffice DOC to PDF](https://mioffice.ai/tools/pdf/doc-to-pdf) | Convert Word documents to PDF in browser. |
 | [MiOffice XLSX to PDF](https://mioffice.ai/tools/pdf/xlsx-to-pdf) | Convert Excel spreadsheets to PDF locally. |
 | [PDF.js](https://mozilla.github.io/pdf.js/) | Mozilla's open-source PDF viewer for the web. |
@@ -49,6 +50,7 @@ Modern browsers with WebAssembly, Canvas, and Web Workers can handle tasks that 
 | [MiOffice Image Resize](https://mioffice.ai/tools/image/resize) | Resize images to exact dimensions. Runs entirely client-side. |
 | [MiOffice Image Crop](https://mioffice.ai/tools/image/crop) | Crop images with precision in browser. No server needed. |
 | [MiOffice Image Convert](https://mioffice.ai/tools/image/convert) | Convert between image formats — PNG, JPG, WebP, AVIF. |
+| [Mini Tools Image Resizer & Compressor](https://mini-tools.uk/image) | Browser-based image compressor, resizer and WebP converter. |
 | [MiOffice WebP to PNG](https://mioffice.ai/tools/image/webp-to-png) | Convert WebP images to PNG format locally. |
 | [MiOffice WebP to JPG](https://mioffice.ai/tools/image/webp-to-jpg) | Convert WebP images to JPG format in browser. |
 | [MiOffice JPG to WebP](https://mioffice.ai/tools/image/jpg-to-webp) | Convert JPG to modern WebP format. Zero upload. |
@@ -88,7 +90,9 @@ Modern browsers with WebAssembly, Canvas, and Web Workers can handle tasks that 
 |------|-------------|
 | [MiOffice File Convert](https://mioffice.ai/tools/file/convert) | Universal file converter running in browser. |
 | [MiOffice QR Generator](https://mioffice.ai/tools/qr/generate) | Generate QR codes locally. No tracking, no server. |
+| [Mini Tools QR Code Generator](https://mini-tools.uk/qr) | Generate QR codes for URLs, Wi-Fi, vCard, email and text. |
 | [MiOffice JSON Formatter](https://mioffice.ai/tools/dev/json-formatter) | Format and validate JSON in browser. |
+| [Mini Tools JSON Formatter](https://mini-tools.uk/json) | Format, validate, minify and inspect JSON in the browser. |
 | [MiOffice Base64 Encode](https://mioffice.ai/tools/dev/base64) | Encode/decode Base64 strings locally. |
 | [FileSaver.js](https://github.com/nicedaycode/FileSaver.js) | Save generated files on the client side. |
 | [JSZip](https://stuk.github.io/jszip/) | Create, read, and edit .zip files with JavaScript. |
