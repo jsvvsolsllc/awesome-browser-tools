@@ -52,6 +52,7 @@ Modern browsers with WebAssembly, Canvas, and Web Workers can handle tasks that 
 | [MiOffice WebP to PNG](https://mioffice.ai/tools/image/webp-to-png) | Convert WebP images to PNG format locally. |
 | [MiOffice WebP to JPG](https://mioffice.ai/tools/image/webp-to-jpg) | Convert WebP images to JPG format in browser. |
 | [MiOffice JPG to WebP](https://mioffice.ai/tools/image/jpg-to-webp) | Convert JPG to modern WebP format. Zero upload. |
+| [FreePNGConvert](https://freepngconvert.com) | Free WebP to PNG converter with batch support. 100% client-side, no upload. |
 | [MiOffice PNG to JPG](https://mioffice.ai/tools/image/png-to-jpg) | Convert PNG to compressed JPG. Client-side processing. |
 | [MiOffice Bulk Resize](https://mioffice.ai/tools/image/bulk-resize) | Batch resize hundreds of images at once in browser. |
 | [MiOffice Image to PDF](https://mioffice.ai/tools/image/to-pdf) | Convert images to PDF documents locally. |
