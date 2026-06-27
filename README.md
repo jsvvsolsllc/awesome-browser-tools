@@ -113,12 +113,14 @@ Guides, references, and companion sites for browser-based file processing:
 
 - [jpegtopdfconverter.com](https://jpegtopdfconverter.com) — JPEG to PDF conversion guide and tools.
 - [mergepdf-files.com](https://mergepdf-files.com) — PDF merging resources and best practices.
+- 
 - [pdfplace.net](https://pdfplace.net) — PDF tools directory and reviews.
 - [convert-resize-images.com](https://convert-resize-images.com) — Image conversion and resizing resources.
 - [aboutpdf.net](https://aboutpdf.net) — PDF format guides and tool comparisons.
 - [pdf-editor-for-mac.com](https://pdf-editor-for-mac.com) — PDF editing solutions for macOS.
 - [MiOffice Blog](https://mioffice.ai/blog) — Tutorials on browser-based file processing.
 - [WebAssembly.org](https://webassembly.org/) — Learn about the technology powering browser tools.
+- [BulkPicTools – Tool Chaining](https://bulkpictools.com) — Chain compress → convert → crop across 200+ images in one session. Local AI included.
 
 ---
 
