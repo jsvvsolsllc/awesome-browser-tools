@@ -45,6 +45,7 @@ Modern browsers with WebAssembly, Canvas, and Web Workers can handle tasks that 
 
 | Tool | Description |
 |------|-------------|
+| [ToolBox Image](https://toolboximage.com) | Browser-based image compressor for JPG, PNG, WebP, AVIF, HEIC. WebAssembly codecs, parallel processing, zero upload. |
 | [MiOffice Image Compress](https://mioffice.ai/tools/image/compress) | Compress images up to 90% smaller. Browser-based, no upload. |
 | [MiOffice Image Resize](https://mioffice.ai/tools/image/resize) | Resize images to exact dimensions. Runs entirely client-side. |
 | [MiOffice Image Crop](https://mioffice.ai/tools/image/crop) | Crop images with precision in browser. No server needed. |
