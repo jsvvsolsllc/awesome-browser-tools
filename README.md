@@ -117,6 +117,7 @@ Guides, references, and companion sites for browser-based file processing:
 - [convert-resize-images.com](https://convert-resize-images.com) — Image conversion and resizing resources.
 - [aboutpdf.net](https://aboutpdf.net) — PDF format guides and tool comparisons.
 - [pdf-editor-for-mac.com](https://pdf-editor-for-mac.com) — PDF editing solutions for macOS.
+- [Super Utility Hub](https://superhubutils.netlify.app) — 118 free browser-based tools (PDF, image, audio, dev, finance, text); everything runs locally, no uploads.
 - [MiOffice Blog](https://mioffice.ai/blog) — Tutorials on browser-based file processing.
 - [WebAssembly.org](https://webassembly.org/) — Learn about the technology powering browser tools.
 
