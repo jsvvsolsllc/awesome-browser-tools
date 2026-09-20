@@ -351,6 +351,7 @@ This README currently includes **285 ToolsFam tools** grouped by category. For t
 - [Date Generator](https://toolsfam.com/tools/date-generator) - Generate random dates, ranges and timestamps for tests and demos.
 
 ## Calculators
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free MIT browser tools for freelancers: invoice, quote, deposit calculator, hourly vs fixed-price, late-fee, timesheet, and client close docs. No signup.
 
 - [Percentage Calculator](https://toolsfam.com/tools/percentage-calculator) - Calculate percentages, percent change and reverse percentage.
 - [Age Calculator](https://toolsfam.com/tools/age-calculator) - Calculate exact age in years, months and days.
