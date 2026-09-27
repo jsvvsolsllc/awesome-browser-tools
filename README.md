@@ -93,6 +93,7 @@ Modern browsers with WebAssembly, Canvas, and Web Workers can handle tasks that 
 | [FileSaver.js](https://github.com/nicedaycode/FileSaver.js) | Save generated files on the client side. |
 | [JSZip](https://stuk.github.io/jszip/) | Create, read, and edit .zip files with JavaScript. |
 | [SheetJS](https://sheetjs.com/) | Spreadsheet data parser and writer for the browser. |
+| [FileOnTap](https://fileontap.com/) | Free browser-based image and PDF converter; files stay on the device, with no upload or account required. |
 
 ## Privacy Tools
 
