@@ -70,6 +70,7 @@ Modern browsers with WebAssembly, Canvas, and Web Workers can handle tasks that 
 | [FFmpeg.wasm](https://ffmpegwasm.netlify.app/) | FFmpeg compiled to WebAssembly for browser use. |
 | [Clipchamp](https://clipchamp.com/) | Microsoft's browser-based video editor. |
 | [Kapwing](https://www.kapwing.com/) | Online video editing and content creation platform. |
+| [ReelWorkshop](https://reelworkshop.com/) | Browser compilation maker: import your own clips, arrange/trim, preview, export vertical 9:16 H.264. Editing & preview free; finished export on Starter. |
 
 ## AI Tools
 
