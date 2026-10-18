@@ -89,6 +89,7 @@ Modern browsers with WebAssembly, Canvas, and Web Workers can handle tasks that 
 | [MiOffice File Convert](https://mioffice.ai/tools/file/convert) | Universal file converter running in browser. |
 | [MiOffice QR Generator](https://mioffice.ai/tools/qr/generate) | Generate QR codes locally. No tracking, no server. |
 | [MiOffice JSON Formatter](https://mioffice.ai/tools/dev/json-formatter) | Format and validate JSON in browser. |
+| [BestJSON JSON Diff](https://bestjson.com/json-diff) | Compare JSON structures and inspect added, removed or changed values by path in the browser. |
 | [MiOffice Base64 Encode](https://mioffice.ai/tools/dev/base64) | Encode/decode Base64 strings locally. |
 | [FileSaver.js](https://github.com/nicedaycode/FileSaver.js) | Save generated files on the client side. |
 | [JSZip](https://stuk.github.io/jszip/) | Create, read, and edit .zip files with JavaScript. |
