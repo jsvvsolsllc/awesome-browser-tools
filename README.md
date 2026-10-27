@@ -45,6 +45,7 @@ Modern browsers with WebAssembly, Canvas, and Web Workers can handle tasks that 
 
 | Tool | Description |
 |------|-------------|
+| [ImgFlow](https://imgflow.taoliapp.com/en/) | Free in-browser image compressor/converter (HEIC, WebP, AVIF, target-size). WASM; no upload. |
 | [MiOffice Image Compress](https://mioffice.ai/tools/image/compress) | Compress images up to 90% smaller. Browser-based, no upload. |
 | [MiOffice Image Resize](https://mioffice.ai/tools/image/resize) | Resize images to exact dimensions. Runs entirely client-side. |
 | [MiOffice Image Crop](https://mioffice.ai/tools/image/crop) | Crop images with precision in browser. No server needed. |
