@@ -70,6 +70,7 @@ Modern browsers with WebAssembly, Canvas, and Web Workers can handle tasks that 
 | [FFmpeg.wasm](https://ffmpegwasm.netlify.app/) | FFmpeg compiled to WebAssembly for browser use. |
 | [Clipchamp](https://clipchamp.com/) | Microsoft's browser-based video editor. |
 | [Kapwing](https://www.kapwing.com/) | Online video editing and content creation platform. |
+| [Karaoke Captions](https://karaokecaptions.com/) | Generate word-by-word captions locally in the browser; export captioned MP4 or SRT/VTT subtitles. |
 
 ## AI Tools
 
