@@ -58,6 +58,7 @@ Modern browsers with WebAssembly, Canvas, and Web Workers can handle tasks that 
 | [Squoosh](https://squoosh.app/) | Google's image compression web app. |
 | [Photopea](https://www.photopea.com/) | Advanced browser-based image editor (Photoshop alternative). |
 | [SVGOMG](https://jakearchibald.github.io/svgomg/) | SVG optimizer with a web GUI. |
+| [ASCII Images](https://ascii-images.com/image-to-ascii?vendors=off) | Convert local images to ASCII character art in the browser; free, with no account required. |
 
 ## Video Tools
 
