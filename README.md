@@ -69,6 +69,7 @@ Modern browsers with WebAssembly, Canvas, and Web Workers can handle tasks that 
 | [MiOffice GIF Maker](https://mioffice.ai/tools/video/gif-maker) | Create GIFs from video. Runs locally with WASM. |
 | [FFmpeg.wasm](https://ffmpegwasm.netlify.app/) | FFmpeg compiled to WebAssembly for browser use. |
 | [Clipchamp](https://clipchamp.com/) | Microsoft's browser-based video editor. |
+| [VHS Filter](https://vhsfilter.com/) | Apply adjustable VHS tape effects to short videos and photos directly in the browser. |
 | [Kapwing](https://www.kapwing.com/) | Online video editing and content creation platform. |
 
 ## AI Tools
