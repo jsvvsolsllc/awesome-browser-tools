@@ -37,6 +37,7 @@ Modern browsers with WebAssembly, Canvas, and Web Workers can handle tasks that 
 | [MiOffice PDF to Images](https://mioffice.ai/tools/pdf/to-images) | Convert PDF pages to high-quality PNG/JPG images. |
 | [MiOffice DOC to PDF](https://mioffice.ai/tools/pdf/doc-to-pdf) | Convert Word documents to PDF in browser. |
 | [MiOffice XLSX to PDF](https://mioffice.ai/tools/pdf/xlsx-to-pdf) | Convert Excel spreadsheets to PDF locally. |
+| [PDF Fan: Insertar páginas en un PDF](https://pdf.fan/es/insertar-paginas-pdf/) | Insert selected pages from another PDF at a chosen position. Spanish interface, free to use without an account. Source PDFs are processed in the browser. |
 | [PDF.js](https://mozilla.github.io/pdf.js/) | Mozilla's open-source PDF viewer for the web. |
 | [PDF-LIB](https://pdf-lib.js.org/) | Create and modify PDFs in any JavaScript environment. |
 | [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | Self-hosted PDF manipulation tool. |
